@@ -5,4 +5,4 @@ Install Webpack:
 npm install webpack -g
 
 Run command:
- webpack
+ webpack --progress --colors --watch
